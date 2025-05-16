@@ -2,7 +2,7 @@
 
 After exploring the backend code of education platforms and professional development sites for teachers, I started noticing a pattern. Instead of hosting their videos on YouTube (which is what I had always assumed was the default), many of these businesses were using a platform I hadn’t heard of before: Wistia.
 
-After doing some research, I discovered that Wistia is a video hosting platform built for businesses. Unlike YouTube, it’s designed to keep viewers on the companies' website, without no ads, no recommendations, and full control over the player experience. It’s used heavily in marketing, training, and education, often behind a login or embedded in slide decks or lessons. 
+After doing some research, I discovered that Wistia is a video hosting platform built for businesses. Unlike YouTube, it’s designed to keep viewers on the companies' website, without ads, no recommendations, and full control over the player experience. It’s used heavily in marketing, training, and education, often behind a login or embedded in slide decks or lessons. 
 
 What surprised me was that most Wistia videos embedded on websites aren’t actually private. Even though they’re not listed on YouTube or publicly searchable, they’re still accessible through public-facing URLs if you know where to look. I've used this method in college classes where there's no easy way to download lecture videos from Learning Mangement Systems like Canvas or Blackboard.
 
