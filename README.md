@@ -29,9 +29,8 @@ What my Python script does:
 - Save them locally with organized filenames
 - Eventually, I added support for auto-numbering, optional suffixes (e.g., 2.1 - Introduction.mp4), and even the option of merging the videos into a single file using ffmpeg. 
 
+If you're curious to see the documentation for this, check it out here: [documentation.md](./documentation.md).
+
 ---
 
 https://github.com/user-attachments/assets/ed51ac14-6683-447c-967b-42e5ad85053a
-
-
-
