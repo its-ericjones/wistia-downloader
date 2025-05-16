@@ -27,7 +27,7 @@ What my Python script does:
 - Find the Wistia embed URL inside each slide
 - Pull down the best-quality version of the video
 - Save them locally with organized filenames
-- Eventually, I added support for auto-numbering, optional suffixes (e.g., 2.1 - Introduction.mp4), and even merging the videos into a single file using ffmpeg. 
+- Eventually, I added support for auto-numbering, optional suffixes (e.g., 2.1 - Introduction.mp4), and even the option of merging the videos into a single file using ffmpeg. 
 
 ---
 
