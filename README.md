@@ -29,3 +29,7 @@ What my Python script does:
 - Save them locally with organized filenames
 - Eventually, I added support for auto-numbering, optional suffixes (e.g., 2.1 - Introduction.mp4), and even merging the videos into a single file using ffmpeg. 
 
+---
+
+https://github.com/user-attachments/assets/4ee2ca4f-ef40-40e4-9ec9-8bb7f030b241
+
