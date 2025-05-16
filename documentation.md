@@ -62,7 +62,7 @@ This function fetches the HTML content from a given page URL and extracts slide 
 4. Collects each `data-slide-id` along with its associated `data-position` (for sorting).
 5. Returns a list of slide IDs ordered by `data-position`.
 
-## Extracting Wistia Embed URLs
+## Extracting Wistia Embedded URLs
 
 ```python
 def extract_wistia_from_div(page_url, slide_id):
@@ -88,7 +88,7 @@ This function looks inside a specific slide's HTML block to locate an embedded W
 
 1. Fetches the HTML content again.
 2. Finds the `<div>` that matches the current slide ID using a CSS selector.
-3. Searches for an `<iframe>` inside this `<div>` and checks if its `src` points to a Wistia embed.
+3. Searches for an `<iframe>` inside this `<div>` and checks if its `src` points to a Wistia embedded video.
 4. Returns the iframe's `src` value if found; otherwise returns `None`.
 
 ## Downloading the Wistia Video
