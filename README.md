@@ -8,7 +8,7 @@ What surprised me was that most Wistia videos embedded on websites aren’t actu
 
 This tool is meant to help teachers reuse or customize lesson videos without having to screen-record or jump through hoops. 
 
-Dislcaimer: I didn't build this to encourage piracy or abuse. These videos were already available to anyone who viewed the page, even when not logged in.
+_Dislcaimer: I didn't build this to encourage piracy or abuse. These videos were already available to anyone who viewed the page, even when not logged in._
 
 ## Inspecting the Source Code
 
